@@ -1,0 +1,10 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+pydantic-settings==2.10.1
+python-multipart==0.0.20
+httpx==0.28.1
+motor==3.7.1
+pymongo==4.13.2
+openai==1.99.9
+google-genai==1.29.0
+pypdf==5.9.0
